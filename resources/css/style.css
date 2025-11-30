@@ -5,6 +5,8 @@ body {
 
 footer {
     text-align: right;
+    display: block;
+    width: 100%;
 }
 
 h1 {
@@ -28,6 +30,13 @@ a {
 }
 
 p {
+    font-family: 'Verdana';
+    font-size: 21px;
+    color: gray;
+}
+
+footer p {
+    text-align: right;
     font-family: 'Verdana';
     font-size: 21px;
     color: gray;

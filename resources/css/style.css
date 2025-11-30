@@ -33,3 +33,10 @@
     font-size: 21px;
     color: gray;
 }
+.img {
+    align-items: center;
+}
+
+.video {
+    align-items: center;
+}

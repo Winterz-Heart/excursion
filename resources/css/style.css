@@ -1,42 +1,42 @@
-.body {
+body {
     background-color: black;
     text-align: center;
 }
 
-.h1 {
+h1 {
     font-weight: normal;
     font-family: 'Verdana';
     font-size: 50px;
     color: white;
 }
 
-.h2 {
+h2 {
     font-family: 'Verdana';
     font-weight: 300;
     font-size: 42px;
     color: white;
 }
 
-.h6 {
+h6 {
     text-align: right;
     color: gray;
     font-size: 21px;
 }
 
-.a {
+a {
     color: aquamarine;
     font-size: 16px;
 }
 
-.p {
+p {
     font-family: 'Verdana';
     font-size: 21px;
     color: gray;
 }
-.img {
+img {
     align-items: center;
 }
 
-.video {
+video {
     align-items: center;
 }
